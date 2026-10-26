@@ -13,7 +13,7 @@
 
 export const siteConfig = {
   // Clinic / Business Name (Change this to any client clinic name)
-  clinicName: "SmileCare Dental",
+  clinicName: "Stackron Dental",
   clinicSubtitle: "Dentist & Dental Clinic",
   tagline: "A Healthier Smile Starts Here Today and Beyond Care",
   aboutSummary: "Caring for your smile with advanced dental care and a patient-centric approach.",
